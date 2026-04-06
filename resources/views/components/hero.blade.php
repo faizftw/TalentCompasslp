@@ -30,7 +30,7 @@
                 </p>
 
                 <div class="animate-slide-up stagger-4 flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                    <a href="#cta" class="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-gradient-to-r from-accent-500 to-accent-400 text-surface-950 font-bold text-lg hover:shadow-2xl hover:shadow-accent-500/30 hover:-translate-y-1 transition-all duration-300">
+                    <a href="https://talentcompass.id/login" class="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-gradient-to-r from-accent-500 to-accent-400 text-surface-950 font-bold text-lg hover:shadow-2xl hover:shadow-accent-500/30 hover:-translate-y-1 transition-all duration-300">
                         Coba Sekarang
                         <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6"/></svg>
                     </a>
